@@ -1,0 +1,2 @@
+I have used Google Cloud Platform in my past internship. I used it to deploy a project that I worked on using REST API calls and then I used the logging features to ensure everything was working.
+I was able to redeploy to the same project using more REST APIs, it was not too difficult to complete. It was just a lot of steps and ensuring that everything was factored correctly. 
